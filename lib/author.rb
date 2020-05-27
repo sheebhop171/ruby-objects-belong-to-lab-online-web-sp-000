@@ -1,3 +1,4 @@
 class Author
-  attr_acccessor :name
+  attr_accessor :name
+
 end
